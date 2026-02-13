@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm KIMHYUNJE, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Seoul, Korea</b>. </p>
+<p>Welcome to my page! </br> I'm <b>KIMHYUNJE</b>, Fullstack developer from <b>Seoul, Korea</b>. </p>
 
 <h3>What I am learnig </h3>
 <p>
@@ -20,8 +20,7 @@
 </p>
 
 
-<p> <a href="https://www.instagram.com/ranflir/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>@ranflir</a><br/></p>
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/ranflir" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<p> <a href="https://www.instagram.com/ranflir/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="30"/></a><br/></p>
 </p>
